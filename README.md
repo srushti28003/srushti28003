@@ -6,8 +6,8 @@ Data analytics graduate (MSc, National College of Ireland) based in Ireland. I b
 
 ### Featured project
 
-**[Machine-learning decision support for climate-resilient agricultural water management](https://github.com/srushti28003/stormwater-ml-decision-system)**
-Forecasts next-day soil moisture from ~480,000 hourly Copernicus climate records and sizes rainwater-harvesting storage. On an unseen test year, the selected model cut forecast error by 32.8% versus a baseline. Manuscript in preparation.
+**[Machine-learning decision support for climate-resilient agricultural water management](https://github.com/srushti28003/ai-stormwater-harvesting)**
+My MSc dissertation project. Forecasts next-day soil moisture from ~480,000 hourly Copernicus climate records and sizes rainwater-harvesting storage. On an unseen test year, the selected model cut forecast error by 32.8% versus a baseline. Manuscript in preparation.
 
 ### Tools
 
